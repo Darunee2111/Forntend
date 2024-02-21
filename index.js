@@ -9,7 +9,7 @@ const path = require("path");
 //const base_url = "http://localhost:3000";
 //const base_url = "http://node58674-darunee-noderest2.proen.app.ruk-com.cloud";
 //const dbUrl = "node58674-darunee-noderest2.proen.app.ruk-com.cloud:11531";
-const base_url = "node58674-darunee-noderest2.proen.app.ruk-com.cloud";
+const base_url = "http://node58674-darunee-noderest2.proen.app.ruk-com.cloud";
 ////
 
 // Set the template engine
